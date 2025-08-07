@@ -1,0 +1,5 @@
+D:\Хмелева\Labs-for-programming-4-semester\Lab5\obj\Debug\net9.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Хмелева\Labs-for-programming-4-semester\Lab5\obj\Debug\net9.0\Lab5.AssemblyInfoInputs.cache
+D:\Хмелева\Labs-for-programming-4-semester\Lab5\obj\Debug\net9.0\Lab5.AssemblyInfo.cs
+D:\Хмелева\Labs-for-programming-4-semester\Lab5\obj\Debug\net9.0\Lab5.csproj.CoreCompileInputs.cache
+D:\Хмелева\Labs-for-programming-4-semester\Lab5\obj\Debug\net9.0\Lab5.sourcelink.json

@@ -1,0 +1,14 @@
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\bin\Debug\net9.0\Lab2_2.exe
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\bin\Debug\net9.0\Lab2_2.deps.json
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\bin\Debug\net9.0\Lab2_2.runtimeconfig.json
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\bin\Debug\net9.0\Lab2_2.dll
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\bin\Debug\net9.0\Lab2_2.pdb
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\Lab2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\Lab2_2.AssemblyInfoInputs.cache
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\Lab2_2.AssemblyInfo.cs
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\Lab2_2.csproj.CoreCompileInputs.cache
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\Lab2_2.dll
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\refint\Lab2_2.dll
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\Lab2_2.pdb
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\Lab2_2.genruntimeconfig.cache
+C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2_2\obj\Debug\net9.0\ref\Lab2_2.dll

@@ -1,0 +1,15 @@
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\bin\Debug\net9.0\Lab6.exe
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\bin\Debug\net9.0\Lab6.deps.json
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\bin\Debug\net9.0\Lab6.runtimeconfig.json
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\bin\Debug\net9.0\Lab6.dll
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\bin\Debug\net9.0\Lab6.pdb
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\Lab6.AssemblyInfoInputs.cache
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\Lab6.AssemblyInfo.cs
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\Lab6.csproj.CoreCompileInputs.cache
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\Lab6.sourcelink.json
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\Lab6.dll
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\refint\Lab6.dll
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\Lab6.pdb
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\Lab6.genruntimeconfig.cache
+D:\Хмелева\Labs-for-programming-4-semester\Lab6\obj\Debug\net9.0\ref\Lab6.dll

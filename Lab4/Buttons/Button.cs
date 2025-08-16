@@ -1,4 +1,5 @@
 //3
+namespace Lab4;
 public class Button : Control
 {
     // Собственное свойство
@@ -10,7 +11,7 @@ public class Button : Control
         Color = color;
     }
 
-    // Собственный метод (виртуальный, для переопределения)
+    // Собственный метод (для переопределения)
     public virtual void Click()
     {
         if (IsActive)

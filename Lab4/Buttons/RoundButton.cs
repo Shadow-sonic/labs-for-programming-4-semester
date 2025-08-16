@@ -1,4 +1,5 @@
 //5
+namespace Lab4;
 public sealed class RoundButton : Button
 {
     // Собственное свойство
@@ -9,7 +10,7 @@ public sealed class RoundButton : Button
     {
         Radius = radius;
     }
-    
+
     // Собственный метод
     public void Spin()
     {

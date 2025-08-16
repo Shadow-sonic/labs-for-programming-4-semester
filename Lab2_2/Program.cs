@@ -1,4 +1,5 @@
-﻿class Program
+﻿namespace Lab2_2;
+class Program
 {
     static void Main()
     {
@@ -26,24 +27,24 @@
         // Вызов обычных методов
         myButton.RecalculatePosition(15, 30);
         Console.WriteLine($"Новая позиция кнопки '{myButton.Text}': ({myButton.XPosition}, {myButton.YPosition})");
-        
+
         // Вызов перегруженного метода
         myButton.RecalculatePosition(5, -10, true);
         Console.WriteLine($"Смещенная позиция кнопки '{myButton.Text}': ({myButton.XPosition}, {myButton.YPosition})");
-        
+
         myButton.Disable();
         myButton.Click();
         Console.WriteLine();
-        
+
         Console.WriteLine("--- Демонстрация присваивания объектов ---");
-        
+
         Button anotherButton = myButton;
         Console.WriteLine($"myButton: '{myButton.Text}', позиция: ({myButton.XPosition}, {myButton.YPosition})");
         Console.WriteLine($"anotherButton: '{anotherButton.Text}', позиция: ({anotherButton.XPosition}, {anotherButton.YPosition})");
 
         // Изменение состояния через один объект
         anotherButton.RecalculatePosition(50, 50);
-        
+
         Console.WriteLine("\nПосле изменения через 'anotherButton':");
         Console.WriteLine($"myButton: '{myButton.Text}', позиция: ({myButton.XPosition}, {myButton.YPosition})");
         Console.WriteLine($"anotherButton: '{anotherButton.Text}', позиция: ({anotherButton.XPosition}, {anotherButton.YPosition})");

@@ -1,7 +1,8 @@
 using System;
 
+namespace Lab4;
 // 1. Абстрактный корневой класс
-public abstract class UIElement
+public abstract class UIElementAbstract
 {
     // Общие свойства, доступные для всех потомков
     public string Text { get; set; }
@@ -9,7 +10,7 @@ public abstract class UIElement
     public int YPosition { get; set; }
 
     // Конструктор
-    public UIElement(string text, int x, int y)
+    public UIElementAbstract(string text, int x, int y)
     {
         Text = text;
         XPosition = x;

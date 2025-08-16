@@ -1,4 +1,5 @@
 //2
+namespace Lab4;
 public class Control : UIElement
 {
     // Собственное свойство
@@ -21,7 +22,7 @@ public class Control : UIElement
     {
         return base.ToString() + $", Активен: {IsActive}";
     }
-    
+
     // Собственный метод
     public void Disable()
     {

@@ -1,4 +1,5 @@
 //4
+namespace Lab4;
 public class ImageButton : Button
 {
     // Собственное свойство
@@ -22,7 +23,7 @@ public class ImageButton : Button
             Console.WriteLine($"Невозможно нажать кнопку '{Text}' с изображением, она заблокирована.");
         }
     }
-    
+
     // Собственный метод
     public void DisplayImage()
     {

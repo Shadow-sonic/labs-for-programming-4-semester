@@ -3,14 +3,6 @@ using System.Linq;
 
 namespace Lab3;
 
-// Объявляем перечисление для формы обучения
-public enum Education
-{
-    Specialist,
-    Bachelor,
-    SecondEducation
-}
-
 // Класс Exam для хранения информации об экзаменах
 public class Exam
 {

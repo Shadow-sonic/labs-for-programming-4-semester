@@ -29,4 +29,5 @@ public class Control : UIElement
         IsActive = false;
         Console.WriteLine($"Элемент управления '{Text}' заблокирован.");
     }
+
 }

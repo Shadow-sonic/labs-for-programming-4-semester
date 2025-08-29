@@ -12,3 +12,4 @@ D:\Хмелева\Labs-for-programming-4-semester\Lab3\obj\Debug\net9.0\refint\L
 D:\Хмелева\Labs-for-programming-4-semester\Lab3\obj\Debug\net9.0\Lab3.pdb
 D:\Хмелева\Labs-for-programming-4-semester\Lab3\obj\Debug\net9.0\Lab3.genruntimeconfig.cache
 D:\Хмелева\Labs-for-programming-4-semester\Lab3\obj\Debug\net9.0\ref\Lab3.dll
+D:\Хмелева\Labs-for-programming-4-semester\Lab3\obj\Debug\net9.0\Lab3.sourcelink.json

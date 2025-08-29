@@ -3,12 +3,100 @@
   "WorkspaceRootPath": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\StudentEnumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\StudentEnumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\IDateAndCopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\IDateAndCopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\RoundButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab4\\Buttons\\RoundButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\Control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab4\\Buttons\\Control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\UIElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab4\\Buttons\\UIElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab4\\Buttons\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\ImageButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab4\\Buttons\\ImageButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Collections\\StudentListHandlerEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab7\\Collections\\StudentListHandlerEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Collections\\StudentCollectionWithEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab7\\Collections\\StudentCollectionWithEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab3\\Exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab3\\Education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab3\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab2_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab2_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab2_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab2_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +111,291 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Program.cs",
-              "RelativeDocumentMoniker": "Lab3\\Program.cs",
-              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Program.cs",
-              "RelativeToolTip": "Lab3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StudentEnumerator.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\StudentEnumerator.cs",
+              "RelativeDocumentMoniker": "Lab5\\StudentEnumerator.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\StudentEnumerator.cs",
+              "RelativeToolTip": "Lab5\\StudentEnumerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:28:42.114Z",
+              "WhenOpened": "2025-08-29T08:24:13.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Student.cs",
+              "RelativeDocumentMoniker": "Lab5\\Student.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Student.cs",
+              "RelativeToolTip": "Lab5\\Student.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:24:11.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDateAndCopy.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\IDateAndCopy.cs",
+              "RelativeDocumentMoniker": "Lab5\\IDateAndCopy.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\IDateAndCopy.cs",
+              "RelativeToolTip": "Lab5\\IDateAndCopy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:24:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Exam.cs",
+              "RelativeDocumentMoniker": "Lab5\\Exam.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Exam.cs",
+              "RelativeToolTip": "Lab5\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:24:05.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Education.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Education.cs",
+              "RelativeDocumentMoniker": "Lab5\\Education.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Education.cs",
+              "RelativeToolTip": "Lab5\\Education.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:24:04.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Person.cs",
+              "RelativeDocumentMoniker": "Lab5\\Person.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Person.cs",
+              "RelativeToolTip": "Lab5\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:23:16.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6\\Program.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab6\\Program.cs",
+              "RelativeToolTip": "Lab6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:22:35.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab5.csproj",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Lab5.csproj",
+              "RelativeDocumentMoniker": "Lab5\\Lab5.csproj",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Lab5.csproj",
+              "RelativeToolTip": "Lab5\\Lab5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T08:22:17.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Program.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab5\\Program.cs",
+              "RelativeToolTip": "Lab5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:20:26.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIElement.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\UIElement.cs",
+              "RelativeDocumentMoniker": "Lab4\\Buttons\\UIElement.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\UIElement.cs",
+              "RelativeToolTip": "Lab4\\Buttons\\UIElement.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:09:41.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoundButton.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\RoundButton.cs",
+              "RelativeDocumentMoniker": "Lab4\\Buttons\\RoundButton.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\RoundButton.cs",
+              "RelativeToolTip": "Lab4\\Buttons\\RoundButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:09:40.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageButton.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\ImageButton.cs",
+              "RelativeDocumentMoniker": "Lab4\\Buttons\\ImageButton.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\ImageButton.cs",
+              "RelativeToolTip": "Lab4\\Buttons\\ImageButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:09:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Control.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\Control.cs",
+              "RelativeDocumentMoniker": "Lab4\\Buttons\\Control.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\Control.cs",
+              "RelativeToolTip": "Lab4\\Buttons\\Control.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:08:50.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\Button.cs",
+              "RelativeDocumentMoniker": "Lab4\\Buttons\\Button.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Buttons\\Button.cs",
+              "RelativeToolTip": "Lab4\\Buttons\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:08:45.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4\\Program.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab4\\Program.cs",
+              "RelativeToolTip": "Lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:08:35.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentCollectionWithEvents.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Collections\\StudentCollectionWithEvents.cs",
+              "RelativeDocumentMoniker": "Lab7\\Collections\\StudentCollectionWithEvents.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Collections\\StudentCollectionWithEvents.cs",
+              "RelativeToolTip": "Lab7\\Collections\\StudentCollectionWithEvents.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:58:59.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:58:47.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Exam.cs",
+              "RelativeDocumentMoniker": "Lab3\\Exam.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Exam.cs",
+              "RelativeToolTip": "Lab3\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:58:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Education.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Education.cs",
+              "RelativeDocumentMoniker": "Lab3\\Education.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Education.cs",
+              "RelativeToolTip": "Lab3\\Education.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:56:38.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab2_2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_2\\Program.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab2_2\\Program.cs",
+              "RelativeToolTip": "Lab2_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:56:09.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab2_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_1\\Program.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab2_1\\Program.cs",
+              "RelativeToolTip": "Lab2_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:51:35.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3\\Program.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Program.cs",
+              "RelativeToolTip": "Lab3\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:28:42.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentListHandlerEventArgs.cs",
+              "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Collections\\StudentListHandlerEventArgs.cs",
+              "RelativeDocumentMoniker": "Lab7\\Collections\\StudentListHandlerEventArgs.cs",
+              "ToolTip": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab7\\Collections\\StudentListHandlerEventArgs.cs",
+              "RelativeToolTip": "Lab7\\Collections\\StudentListHandlerEventArgs.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:59:53.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\\u0425\u043C\u0435\u043B\u0435\u0432\u0430\\Labs-for-programming-4-semester\\Lab3\\Student.cs",
               "RelativeDocumentMoniker": "Lab3\\Student.cs",
@@ -43,8 +403,7 @@
               "RelativeToolTip": "Lab3\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:28:37.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T14:28:37.291Z"
             }
           ]
         }

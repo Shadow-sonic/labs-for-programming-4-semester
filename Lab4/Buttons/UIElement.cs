@@ -26,3 +26,4 @@ public abstract class UIElementAbstract
         return $"Тип: {GetType().Name}, Текст: '{Text}', Позиция: ({XPosition}, {YPosition})";
     }
 }
+

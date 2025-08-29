@@ -12,3 +12,18 @@ C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2\o
 C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2\obj\Debug\net9.0\Lab2.pdb
 C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2\obj\Debug\net9.0\Lab2.genruntimeconfig.cache
 C:\University\Programming\C# Test\Valeria\labs-for-programming-4-semester\Lab2\obj\Debug\net9.0\ref\Lab2.dll
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\bin\Debug\net9.0\Lab2.exe
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\bin\Debug\net9.0\Lab2.deps.json
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\bin\Debug\net9.0\Lab2.runtimeconfig.json
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\bin\Debug\net9.0\Lab2.dll
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\bin\Debug\net9.0\Lab2.pdb
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\Lab2.AssemblyInfoInputs.cache
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\Lab2.AssemblyInfo.cs
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\Lab2.sourcelink.json
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\Lab2.dll
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\refint\Lab2.dll
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\Lab2.pdb
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\Lab2.genruntimeconfig.cache
+D:\Хмелева\Labs-for-programming-4-semester\Lab2_1\obj\Debug\net9.0\ref\Lab2.dll

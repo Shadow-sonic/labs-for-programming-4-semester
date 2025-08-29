@@ -1,6 +1,6 @@
 namespace Lab5;
 // Вспомогательный класс для итератора
-public class StudentEnumerator : IEnumerator
+public class StudentEnumerator : IEnumerator<object>
 {
     private readonly Student student;
     private int position = -1;
@@ -23,6 +23,11 @@ public class StudentEnumerator : IEnumerator
     public void Reset()
     {
         position = -1;
+    }
+
+    public void Dispose()
+    {
+        throw new NotImplementedException();
     }
 
     public object Current
